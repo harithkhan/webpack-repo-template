@@ -17,6 +17,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: "./src/template.html",
     }),
+    new HtmlWebpackPlugin({
+      title: 'Production',
+    }),
   ],
   module: {
     rules: [
