@@ -1,6 +1,7 @@
 module.exports = {
     extends: [
         'airbnb-base', // Airbnb's base JavaScript style guide
+        'prettier'
     ],
     env: {
         browser: true, // Enable browser global variables
