@@ -28,5 +28,8 @@
     "check-format": "npx prettier . --check",
     "watch": "jest --watch *.js",
     "test": "jest"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9"
   }
 }
