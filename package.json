@@ -22,6 +22,8 @@
     "lint-src": "npx eslint src/",
     "lint": "npx eslint",
     "format": "npx prettier . --write",
-    "check-format": "npx prettier . --check"
+    "check-format": "npx prettier . --check",
+    "watch": "jest --watch *.js",
+    "test": "jest"
   }
 }
