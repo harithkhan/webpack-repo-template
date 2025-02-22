@@ -1,4 +1,4 @@
-.eslintrc.js
+.eslintrc.json
 webpack.common.js
 webpack.dev.js
 webpack.prod.js
