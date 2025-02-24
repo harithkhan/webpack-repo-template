@@ -13,3 +13,4 @@ webpack.prod.js
 .gitignore
 .prettierignore
 .prettierrc
+.babel.config.js
